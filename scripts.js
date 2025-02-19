@@ -32,8 +32,8 @@ function drawForeground() {
 }
 
 function drawText() {
-    ctx.font = "50px Arial";
+    ctx.font = "bold 50px Lucida Console";
     ctx.fillStyle = "white";
-    ctx.fillText("Ashanti Benons", 150, 50);
-    ctx.fillText("Flower Forest", 170, 120);
+    ctx.fillText("Ashanti Benons", 10, 50);
+    ctx.fillText("A Single Flower", 10, 120);
 }
