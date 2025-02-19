@@ -1,0 +1,15 @@
+/* Centering and Full Viewport Setup */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;      /* Centers vertically */
+    background-color: #000000;
+}
+
+/* Default Canvas Styling */
+canvas {
+    border: 10px solid rgb(0, 0, 0);
+   
+}
+
